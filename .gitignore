@@ -1,0 +1,54 @@
+build/
+lib/glad/
+src/ext/ 
+# ignoring ext for now as imgui hasnt been implemented yet
+
+.clangd
+.vscode/
+.cache/
+
+# Shaders
+*.bin
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker Output
+*.ilk
+*.map
+*.exp
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared Objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug Files
+*.su
+*.idb
+*.pdb
