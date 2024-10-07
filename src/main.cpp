@@ -1,5 +1,3 @@
-#include "logc/log.h"
-
 #include "gfx/window.hpp"
 #include "gfx/shader.hpp"
 #include "gfx/program.hpp"
